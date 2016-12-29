@@ -1,1 +1,1 @@
-This porject comprise of implementation of xor list as an Standard template library for cpp
+This porject comprise of implementation of xor list as a Standard template library for cpp
